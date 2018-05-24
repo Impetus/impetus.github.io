@@ -6,12 +6,10 @@ Contributions are welcome. Please <a class="nav-link" href="https://www.impetus.
 
 How to contribute?
 
-- Please create an issue and optionally assign it to yourself or a developer.
-- Fork the repository and make your changes against the 'development' branch (not master).
-- After making your changes in your fork, run tests and ensure that the page looks good and works with all supported browsers.
-- If you have made a series of commits into the 'development' branch, please try to squash them into a small number of commits.
-- Issue a Pull Request against the 'development' branch (not master).
-- The admins will review your code and may optionally request conformance, functional or other changes. Work with them to resolve any issues.
-- Upon acceptance, your code will be merged into the master branch and will become available for all.
+- Please create an issue. You can assign it to yourself or allow us to pick it
+- Fork the repository and make changes in development branch
+- Making changes in your fork, run tests
+- Create a Pull Request against the development branch (not master) and submit it
+- The admins will review your code and share feedback before accepting the pull request
 
 Thanks!
