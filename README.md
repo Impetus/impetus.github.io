@@ -2,7 +2,7 @@
 
 Home of Impetus open-source development. This site contains information about our open source projects.
 
-Contributions are welcome. Please <a class="nav-link" href="https://www.impetus.com/contact" target="_blank">contact us</a>, if you have any questions about this site or the Impetus GitHub organization in general.
+Contributions are welcome. Please <a class="nav-link" href="https://www.impetus.com/contact" target="_blank">contact us</a>, if you have any questions about Impetus GitHub presence.
 
 How to contribute?
 
