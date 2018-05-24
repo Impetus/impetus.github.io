@@ -8,8 +8,8 @@ How to contribute?
 
 - Please create an issue. You can assign it to yourself or allow us to pick it
 - Fork the repository and make changes in development branch
-- Making changes in your fork, run tests
+- Make changes in your fork, run tests
 - Create a Pull Request against the development branch (not master) and submit it
-- The admins will review your code and share feedback before accepting the pull request
+- Project admins will review your code and share feedback before accepting the pull request
 
 Thanks!
