@@ -39,7 +39,8 @@ h1 {
 .card-subtitle {
 	color : #6c757d!important;
 	margin-top:5px;
-	margin-bottom:10px !important
+	margin-bottom:10px !important;
+	justify-content: left !important;
 }
 .card-text {
 	color: #444;
