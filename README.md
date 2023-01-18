@@ -11,5 +11,3 @@ How to contribute?
 - Make changes in your fork, run tests
 - Create a Pull Request against the development branch (not master) and submit it
 - Project admins will review your code and share feedback before accepting the pull request
-
-Thanks!
